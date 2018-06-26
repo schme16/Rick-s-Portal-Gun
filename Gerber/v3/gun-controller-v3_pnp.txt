@@ -1,0 +1,38 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=gun-controller-v3
+*Date=12:00:52
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;31.2419;-7.66201;0;Bottom;Via3
+2;;molex-1x4_lock;33.3733;-3.62481;0;Bottom;Encoder
+3;;;15.0875;-28.0836;0;Bottom;Via2
+4;;;10.2107;-33.57;0;Bottom;Via4
+5;;1x12_machine-pin-header_lock.004;2.98252;-18.4463;90;Bottom;LED header
+6;220;1206 [SMD];9.95298;-8.99805;180;Bottom;R6
+7;;sot89;8.29298;-38.8636;0;Bottom;Q4
+8;;sot89;14.6842;-38.8337;0;Bottom;Q1
+9;;;14.3478;-43.4544;0;Bottom;TXT4
+10;220;1206 [SMD];9.94113;-17.4548;180;Bottom;R3
+11;220;1206 [SMD];9.94508;-11.8254;180;Bottom;R5
+12;220;1206 [SMD];9.94254;-3.36537;180;Bottom;R8
+13;;sot89;8.17417;-32.2466;0;Bottom;Q3
+14;220;1206 [SMD];9.93633;-6.18353;180;Bottom;R7
+15;220;1206 [SMD];9.93125;-14.6247;180;Bottom;R4
+16;;;6.8579;-35.7036;0;Bottom;Via1
+17;;;15.7607;-8.40461;0;Bottom;TXT2
+18;220;1206 [SMD];9.90303;-20.2161;180;Bottom;R2
+19;;molex-1x4_lock;21.3851;-3.6569;0;Bottom;LED - Power
+20;;;15.4203;-4.029;0;Bottom;TXT3
+21;;sot89;14.8956;-32.2172;0;Bottom;Q2
+22;;;28.4615;-26.4318;0;Bottom;Arduino pro mini 3.3v
+23;220;1206 [SMD];9.91375;-23.0508;180;Bottom;R1

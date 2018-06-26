@@ -1,0 +1,41 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=gun-controller-v4
+*Date=12:01:22
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;220;1206 [SMD];9.94113;-17.4548;180;Bottom;R3
+2;220;1206 [SMD];9.94508;-11.8254;180;Bottom;R5
+3;;sot89;8.17417;-32.2466;0;Bottom;Q3
+4;;;37.1396;-41.3526;0;Bottom;+
+5;;molex-1x4_lock;21.3851;-3.6569;0;Bottom;LED - Power
+6;220;1206 [SMD];9.90303;-20.2161;180;Bottom;R2
+7;220;1206 [SMD];9.91375;-23.0508;180;Bottom;R1
+8;;sop-14;35.1616;-24.8124;-90;Bottom;U2
+9;;;10.2107;-33.57;0;Bottom;Via4
+10;;;15.7607;-8.40461;0;Bottom;TXT2
+11;220;1206 [SMD];9.94254;-3.36537;180;Bottom;R8
+12;;;15.0875;-28.0836;0;Bottom;Via2
+13;220;1206 [SMD];9.93125;-14.6247;180;Bottom;R4
+14;;;32.5504;-41.4309;0;Bottom;-
+15;;;31.2419;-7.66201;0;Bottom;Via3
+16;;molex-1x4_lock;33.3733;-3.62481;0;Bottom;Encoder
+17;;sot89;14.6842;-38.8337;0;Bottom;Q1
+18;;sot89;14.8956;-32.2172;0;Bottom;Q2
+19;220;1206 [SMD];9.93633;-6.18353;180;Bottom;R7
+20;;1x12_machine-pin-header_lock.004;2.98252;-18.4463;90;Bottom;LED header
+21;;;6.8579;-35.7036;0;Bottom;Via1
+22;220;1206 [SMD];9.95298;-8.99805;180;Bottom;R6
+23;;;14.3478;-43.4544;0;Bottom;TXT4
+24;;DIP16 [THT];24.2231;-22.0695;0;Bottom;U1
+25;;;15.4203;-4.029;0;Bottom;TXT3
+26;;sot89;8.29298;-38.8636;0;Bottom;Q4

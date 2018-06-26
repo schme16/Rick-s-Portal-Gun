@@ -1,0 +1,22 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=gun-controller-v2
+*Date=12:00:26
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;14.3478;-40.5544;0;Bottom;TXT4
+2;;molex-1x4_lock;16.387;-3.27926;0;Bottom;Encoder header
+3;;;17.5424;-23.5441;0;Bottom;Arduino pro mini 3.3v
+4;;1x12_machine-pin-header_lock.004;3.47077;-17.1941;90;Bottom;LED header
+5;;;17.9831;-11.9248;0;Bottom;Via1
+6;;;15.4203;-1.129;0;Bottom;TXT3
+7;;;15.7607;-5.50461;0;Bottom;TXT2
